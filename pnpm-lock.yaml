@@ -4,9 +4,6 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-overrides:
-  '@react-aria/overlays': ~3.20.0
-
 dependencies:
   lucide-react:
     specifier: ~0.358.0
@@ -774,7 +771,7 @@ packages:
       '@react-aria/listbox': 3.11.5(react-dom@18.2.0)(react@18.2.0)
       '@react-aria/live-announcer': 3.3.2
       '@react-aria/menu': 3.13.1(react-dom@18.2.0)(react@18.2.0)
-      '@react-aria/overlays': 3.20.0(react-dom@18.2.0)(react@18.2.0)
+      '@react-aria/overlays': 3.21.1(react-dom@18.2.0)(react@18.2.0)
       '@react-aria/selection': 3.17.5(react-dom@18.2.0)(react@18.2.0)
       '@react-aria/textfield': 3.14.3(react@18.2.0)
       '@react-aria/utils': 3.23.2(react@18.2.0)
@@ -824,7 +821,7 @@ packages:
       react-dom: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
     dependencies:
       '@react-aria/focus': 3.16.2(react@18.2.0)
-      '@react-aria/overlays': 3.20.0(react-dom@18.2.0)(react@18.2.0)
+      '@react-aria/overlays': 3.21.1(react-dom@18.2.0)(react@18.2.0)
       '@react-aria/utils': 3.23.2(react@18.2.0)
       '@react-types/dialog': 3.5.8(react@18.2.0)
       '@react-types/shared': 3.22.1(react@18.2.0)
@@ -843,7 +840,7 @@ packages:
       '@react-aria/i18n': 3.10.2(react@18.2.0)
       '@react-aria/interactions': 3.21.1(react@18.2.0)
       '@react-aria/live-announcer': 3.3.2
-      '@react-aria/overlays': 3.20.0(react-dom@18.2.0)(react@18.2.0)
+      '@react-aria/overlays': 3.21.1(react-dom@18.2.0)(react@18.2.0)
       '@react-aria/utils': 3.23.2(react@18.2.0)
       '@react-stately/dnd': 3.2.8(react@18.2.0)
       '@react-types/button': 3.9.2(react@18.2.0)
@@ -1009,7 +1006,7 @@ packages:
       '@react-aria/focus': 3.16.2(react@18.2.0)
       '@react-aria/i18n': 3.10.2(react@18.2.0)
       '@react-aria/interactions': 3.21.1(react@18.2.0)
-      '@react-aria/overlays': 3.20.0(react-dom@18.2.0)(react@18.2.0)
+      '@react-aria/overlays': 3.21.1(react-dom@18.2.0)(react@18.2.0)
       '@react-aria/selection': 3.17.5(react-dom@18.2.0)(react@18.2.0)
       '@react-aria/utils': 3.23.2(react@18.2.0)
       '@react-stately/collections': 3.10.5(react@18.2.0)
@@ -1056,8 +1053,8 @@ packages:
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
-  /@react-aria/overlays@3.20.0(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-2m7MpRJL5UucbEuu08lMHsiFJoDowkJV4JAIFBZYK1NzVH0vF/A+w9HRNM7jRwx2DUxE+iIsZnl8yKV/7KY8OQ==}
+  /@react-aria/overlays@3.21.1(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-djEBDF+TbIIOHWWNpdm19+z8xtY8U+T+wKVQg/UZ6oWnclSqSWeGl70vu73Cg4HVBJ4hKf1SRx4Z/RN6VvH4Yw==}
     peerDependencies:
       react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
       react-dom: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0
@@ -3342,7 +3339,7 @@ packages:
       '@react-aria/menu': 3.13.1(react-dom@18.2.0)(react@18.2.0)
       '@react-aria/meter': 3.4.11(react@18.2.0)
       '@react-aria/numberfield': 3.11.1(react-dom@18.2.0)(react@18.2.0)
-      '@react-aria/overlays': 3.20.0(react-dom@18.2.0)(react@18.2.0)
+      '@react-aria/overlays': 3.21.1(react-dom@18.2.0)(react@18.2.0)
       '@react-aria/progress': 3.4.11(react@18.2.0)
       '@react-aria/radio': 3.10.2(react@18.2.0)
       '@react-aria/searchfield': 3.7.3(react@18.2.0)
